@@ -89,3 +89,65 @@ printf("%s\n", s + i);
 
 - (s+i) ⇒ ( s + 0)의 위치부터 문자열의 끝 (’\0’)까지의 모든 문자를 하나의 문자열로 출력하고 커서를 다음 줄의 처음으로 옮긴다.
     - 출력 : t, t, test
+---
+
+- 문제 1
+    
+    ```c
+    #include <stdio.h>
+    
+    int main() {
+    	char *p = "KOREA";
+    	printf("%s\n", p); // p의 위치에서 '\0'까지 출력 : KOREA
+    	printf("%s\n", p + 3); // p + 3의 위치부터 '\0'까지 출력 : EA
+    	printf("%s\n", *p); //p가 가리키고 있는 곳의 문자를 출력 : K
+    	printf("%s\n", *(p + 3)); //p + 3이 가리키는 곳의 값을 문자로 출력 : E
+    	printf("%s\n", *p + 2); // p가 가리키는 값에 + 2 한 값을 출력 : (*p = p[0] = K) + 2 => M
+    }
+    ```
+    
+    > KOREA
+    EA
+    K
+    E
+    M
+    > 
+- 문제 2
+    
+    ```c
+    #include <stdio.h>
+    
+    int main() {
+    	int ary[3]:
+    	int s = 0;
+    	*(ary + 0) = 1; // *ary = &ary[0] = ary[0] = 1
+    	ary[1] = *(ary + 0) + 2; //ary[1] = ary[0] + 2 = 1 + 2 = 3
+    	ary[2] = *ary + 3; //ary[2] = 1 + 3 = 4
+    	for(int i = 0; i < 3; i++)
+    		s = s + ary[i]; // s = (s + ary[0]) -> (s + ary[1]) -> (s + ary[2])
+    	printf("%d", s); // 8
+    }
+    ```
+    
+    > 8
+    > 
+- 문제 3
+    
+    ```c
+    #include <stdio.h>
+    
+    int main() {
+    	int *array[3]:
+    	int a = 12, b = 24, c = 36;
+    	array[0] = &a; //array[0] = &a = a = 12
+    	array[1] = &b; //array[1] = &b = b = 24
+    	array[2] = &c; //array[2] = &c = c = 36
+    	printf("%d", *array[1] + **array + 1);
+    	// *array[1] = 24
+    	// **array = *array = array[0] = 12
+    	// 24 + 12 + 1 = 37
+    }
+    ```
+    
+    > 37
+    >
