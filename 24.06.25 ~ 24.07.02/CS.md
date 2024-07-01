@@ -22,9 +22,9 @@ int *ptr = &n; // 포인터의 선
 2. 참조 연산자(*)
     1. 포인터의 이름이나 주소 앞에 사용하여, 포인터에 가리키는 주소에 저장된 값을 반환합니다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b31fc591-a9dc-4af5-b3b4-68153414245b/b669ce3c-d173-44ab-a92a-1096817da89f/Untitled.png)
+![Untitled3](https://github.com/BeautifulMaple/Maple_Study/assets/114921436/7e3393b6-de24-42db-bb73-24990013be12)
+![Untitled2](https://github.com/BeautifulMaple/Maple_Study/assets/114921436/fe556718-4d97-4496-a2e9-05659d6f31b1)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b31fc591-a9dc-4af5-b3b4-68153414245b/8d06e2f8-20eb-4c21-9610-3389da8c08da/Untitled.png)
 
 ```c
 #include <stdio.h>
