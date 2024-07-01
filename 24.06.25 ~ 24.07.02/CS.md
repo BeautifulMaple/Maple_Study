@@ -5,8 +5,9 @@
     - 주소값을 1바이트 크기의 메모리 공간으로 나누어 표현합니다.
     - 예를 들어, int형 데이터는 4바이트의 크기를 가지지만, int형 데이터의 주소값은 시작 주소 1바이트만을 가리킵니다.
     
-(https://prod-files-secure.s3.us-west-2.amazonaws.com/b31fc591-a9dc-4af5-b3b4-68153414245b/c5a884ae-6c29-4f4e-82fb-7baaf62eec39/Untitled.png)
+
     
+![Untitled](https://github.com/BeautifulMaple/Maple_Study/assets/114921436/5265cc57-6f6b-4a3f-8103-56f207bae5b7)
 
 ```c
 int n = 100; // 변수의 선언
