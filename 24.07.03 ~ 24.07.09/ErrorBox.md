@@ -60,7 +60,7 @@ public class Test {
 - 화면에 B를 출력한다.
 
 > B
-> 
+
 
 ### 2-4. draw();
 
