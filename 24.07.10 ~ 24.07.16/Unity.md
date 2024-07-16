@@ -339,8 +339,8 @@ public class CollisionEvent : MonoBehaviour
 ```
 
 # 물리적인 충돌 없는 이벤트 함수
+![testaa](https://github.com/user-attachments/assets/137a7e4f-42b7-420d-9be9-23a2eeb143e6)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b31fc591-a9dc-4af5-b3b4-68153414245b/79f3a939-ba52-4f95-81d1-71e284d46274/Untitled.png)
 
 ## OnTriggerEnter2D()
 
