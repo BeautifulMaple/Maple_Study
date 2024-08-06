@@ -68,7 +68,8 @@ public class ObjectSpawner : MonoBehaviour
 
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b31fc591-a9dc-4af5-b3b4-68153414245b/5ff79d35-7fc0-4f85-9601-3cba92c071ad/Untitled.png)
+![Untitled2](https://github.com/user-attachments/assets/6585e2e2-5e71-41bb-aa3d-cb220ed45e5e)
+
 
 # 회전 정보를 나타나내고 연산하는 방식
 
@@ -137,7 +138,8 @@ public class ObjectSpawner : MonoBehaviour
 
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b31fc591-a9dc-4af5-b3b4-68153414245b/71c3f0eb-338b-4331-b5cf-dab08a34c886/Untitled.png)
+![Untitled3](https://github.com/user-attachments/assets/45ed1598-f356-4cc7-aaad-dfbbded33c36)
+
 
 - z축으로 45도를 회전한 오브젝트를 생성합니다.
 
@@ -177,7 +179,8 @@ public class ObjectSpawner : MonoBehaviour
 
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b31fc591-a9dc-4af5-b3b4-68153414245b/382faa76-68f1-4a98-8225-dd586d449e83/Untitled.png)
+![Untitled4](https://github.com/user-attachments/assets/ada7dd89-6fba-4567-aa1b-72680fc9db86)
+
 
 - Box001로 변경
 - 색상 : 검정색
