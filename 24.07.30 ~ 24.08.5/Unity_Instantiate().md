@@ -2,7 +2,8 @@
 
 **프리팹**은 게임에 존재하는 게임 오브젝트를 Project View에 파일로 저장해 둔 것을 말한다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b31fc591-a9dc-4af5-b3b4-68153414245b/d421dab1-7654-46e3-8181-36bc0ef7d237/2f28c9d0-46ff-435e-aa68-85430b55cf92.png)
+![Untitled](https://github.com/user-attachments/assets/23ac64fe-7838-46f7-bbc0-88b1633032a3)
+
 
 - Hierarchy View의 게임 오브젝트를 Project View로 드래그 & 드롭한다.
 - Hierarchy View에 있는 게임 오브젝트를 삭제한다.
