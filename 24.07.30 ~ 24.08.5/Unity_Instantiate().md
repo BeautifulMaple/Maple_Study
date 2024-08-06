@@ -212,7 +212,8 @@ public class ObjectSpawner : MonoBehaviour
 
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b31fc591-a9dc-4af5-b3b4-68153414245b/1b4ae6fa-3d3b-44ed-a747-93bcc71de1b8/Untitled.png)
+![Untitled5](https://github.com/user-attachments/assets/42b0a0e0-e1e5-4aea-8a5c-ee15b471a16e)
+
 
 ## 2중 반복문
 
@@ -244,8 +245,8 @@ public class ObjectSpawner : MonoBehaviour
 }
 
 ```
+![Untitled6](https://github.com/user-attachments/assets/7ed701ed-3c1c-4919-9fd1-974b40f22bd4)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b31fc591-a9dc-4af5-b3b4-68153414245b/6cfb0e7b-7bba-41d6-8715-17157fc580f6/Untitled.png)
 
 ## 반복문 + 조건문
 
@@ -283,7 +284,8 @@ public class ObjectSpawner : MonoBehaviour
 
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b31fc591-a9dc-4af5-b3b4-68153414245b/76241be8-70ba-44a2-9e92-b9d8369f6e5c/Untitled.png)
+![Untitled7](https://github.com/user-attachments/assets/a75a978b-1d8e-4edb-b854-c9b7f84d74a1)
+
 
 ### X자로 만들기
 
@@ -320,7 +322,8 @@ public class ObjectSpawner : MonoBehaviour
 
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b31fc591-a9dc-4af5-b3b4-68153414245b/e7ed9270-c4cb-42b9-9746-07bbd3454074/Untitled.png)
+![Untitled8](https://github.com/user-attachments/assets/5257c956-f193-44a3-ba4f-2330a5ed5cb3)
+
 
 ### 마름모 모양으로 만들기
 
@@ -357,7 +360,8 @@ public class ObjectSpawner : MonoBehaviour
 
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b31fc591-a9dc-4af5-b3b4-68153414245b/dce546ea-8529-4705-8c08-bbfef5de42b5/Untitled.png)
+![Untitled9](https://github.com/user-attachments/assets/05e245f0-e95f-4314-ab05-99adffa90456)
+
 
 ## 임의의 프리팹으로 오브젝트 생성하기
 
@@ -393,7 +397,8 @@ min부터 max-1까지 정수 중에서 임의의 숫자를 value에 저장
 - float value = Random.Range(float min, float max);
 min부터 max-1까지 실수 중에서 임의의 숫자를 value에 저장
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b31fc591-a9dc-4af5-b3b4-68153414245b/b5a8f8ef-62c5-4027-9ca9-391bce9271a7/Untitled.png)
+![Untitled10](https://github.com/user-attachments/assets/55784b60-5a0c-40cd-8a7b-8980a2da146b)
+
 
 ### 임의의 위치에서 오브젝트 생성
 
@@ -428,7 +433,8 @@ public class ObjectSpawner : MonoBehaviour
 
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b31fc591-a9dc-4af5-b3b4-68153414245b/4c0f9af9-b8e2-4c33-8ba2-7b74b7eb9be6/Untitled.png)
+![Untitled11](https://github.com/user-attachments/assets/4aa95d17-45c5-4424-acf4-d8eef034c214)
+
 
 ### 플레이이어 위치에서 오브젝트 생성하기
 
@@ -525,4 +531,5 @@ public class ObjectSpawner : MonoBehaviour
 
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b31fc591-a9dc-4af5-b3b4-68153414245b/bd385dcf-c019-47fd-901c-35e47da56f33/Untitled.png)
+![Untitled12](https://github.com/user-attachments/assets/81db0304-6d9f-4f2e-a87f-ffa9ff7f9d38)
+
