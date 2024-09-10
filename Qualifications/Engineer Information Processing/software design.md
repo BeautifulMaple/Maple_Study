@@ -1,2 +1,2 @@
-
-https://github.com/BeautifulMaple/Maple_Study/edit/main/Qualifications/Engineer%20Information%20Processing
+# 소프트췌어 생명 주기
+'소프트웨어를 개발하기 위한 설계, 운영, 유지보수 등의 과정을 각 단계별로 나눈 것이다.`
